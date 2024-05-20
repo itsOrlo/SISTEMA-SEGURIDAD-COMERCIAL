@@ -43,7 +43,7 @@ Este proyecto combina la seguridad comercial con la tecnología IoT (Internet de
 
 ### 📄 Licencia
 
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto se distribuye bajo la Licencia MIT. 
 
 ---
 
